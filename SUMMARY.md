@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [インストール](ja/01_install.md)
-* はじめに
+* [はじめに](ja/00_intro.md)
 
